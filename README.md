@@ -11,11 +11,11 @@ An intelligent system that transcribes lecture videos, generates concise educati
 ✅ BeautifulSoup-powered web scraping for relevant content enrichment
 
 🧠 How It Works
-	1.	Upload a video file (.mp4, .mov, etc.)
-	2.	Whisper transcribes the lecture audio into readable text
-	3.	Sentence Transformers embed and extract meaningful segments
-	4.	A summarization model (Mistral-7B or Falcon-7B) condenses the content
-	5.	FPDF creates a polished, ready-to-use study note in PDF format
+1.	Upload a video file (.mp4, .mov, etc.
+2.	Whisper transcribes the lecture audio into readable text
+3.	Sentence Transformers embed and extract meaningful segments
+4.	A summarization model (Mistral-7B or Falcon-7B) condenses the content
+5.	FPDF creates a polished, ready-to-use study note in PDF format
 
 🛠️ Tech Stack
 	•	Python
