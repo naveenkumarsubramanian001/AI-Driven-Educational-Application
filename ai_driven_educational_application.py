@@ -152,7 +152,7 @@ print("\n--- Extracted Reference Text ---\n")
 print(reference_text[:1500])  # Preview first 1500 characters
 
 # Your Groq API key (⚠️ Keep this secret in production)
-api_key = "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"
+api_key = "--------------------------"
 
 # Truncate inputs to fit within token limits
 lecture_text = transcribed_text
